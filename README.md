@@ -1,2 +1,3 @@
-# tcpip_practice
-基于Linux环境的TCP/IP网络编程学习和实践
+#### 介绍
+- 基于Linux环境的TCP/IP网络编程学习和实践
+- 参考图书为人民邮电出版社出版的书: TCP/IP网络编程
